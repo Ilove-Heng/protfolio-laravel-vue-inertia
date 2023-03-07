@@ -1,0 +1,2 @@
+// refresh storage images
+php artisan storage:link
